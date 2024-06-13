@@ -95,7 +95,7 @@ items:
       type: git
       url: "https://github.com/code-beans/UnityFX"
     usage:
-      command: "-t statictoc"
+      command: "-t default,templates/unity"
       config: '"template":["default","templates/unity"]'
   - name: DiscordFX
     description: DocFX template to create documentation similar to Discord
